@@ -1,0 +1,6 @@
+FROM apine
+
+WORKDIR: /app
+COPY .
+
+EXPOSE 80 
